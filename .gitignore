@@ -1,0 +1,26 @@
+# Data and BI files (not published: data license, file size)
+data/*
+!data/README.md
+*.csv
+*.xlsx
+*.xls
+*.pbix
+*.pbit
+*.bak
+*.mdf
+*.ldf
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editor and system files
+.vscode/
+Thumbs.db
+~$*

@@ -1,0 +1,39 @@
+
+{
+  "name": "Digikala Navy",
+  "dataColors": [
+    "#0F4C75",
+    "#1B9AAA",
+    "#F2A541",
+    "#6C8EAD",
+    "#9AD1D4",
+    "#2E7D6B",
+    "#C44536",
+    "#8D99AE"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1F2D3D",
+  "tableAccent": "#0F4C75",
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "B Nazanin",
+      "color": "#0F4C75"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontFace": "B Nazanin",
+      "color": "#1F2D3D"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "B Nazanin",
+      "color": "#1F2D3D"
+    },
+    "label": {
+      "fontSize": 11,
+      "fontFace": "B Nazanin",
+      "color": "#1F2D3D"
+    }
+  }
+}
